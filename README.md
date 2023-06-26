@@ -1,5 +1,4 @@
-# Sprint project 01
-> E-Commerce Data Pipeline
+# E-Commerce Data Pipeline
 
 Hi! this is the first of several projects we're going to be working on during this course.
 
